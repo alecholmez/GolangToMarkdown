@@ -1,5 +1,4 @@
 # README
----
 
 This tool is used to generate markdown from a go source code file for easy documentation of code.
 
@@ -22,7 +21,6 @@ Currently the best way to generate the proper markdown is to follow these guidel
 #### Currently this is not implemented and is soon to come
 
 ## Usage
----
 
 `cd` into the package directory
 
